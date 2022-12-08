@@ -12,3 +12,4 @@
 欄位 | 筆記作業連結
 -----|--------|
 HW1|[https://github.com/nakirifumiya/alg111a/wiki](https://github.com/nakirifumiya/alg111a/wiki)
+HW2|[https://github.com/nakirifumiya/alg111a/wiki/HW2](https://github.com/nakirifumiya/alg111a/wiki/HW2)
