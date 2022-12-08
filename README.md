@@ -9,3 +9,6 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://gitlab.com/cccnqu111/alg
 
+欄位 | 筆記作業連結
+-----|--------|
+HW1|[https://github.com/nakirifumiya/alg111a/wiki](https://github.com/nakirifumiya/alg111a/wiki)
